@@ -1,7 +1,7 @@
 ## Vitaj v mojom svete! 👋
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0060B1&text=Input%20text&reversal=false" alt="Banner Zuzana"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0060B1&text=WELCOME%20IN%20MY%20WORLD&reversal=false" alt="Banner Zuzana"/>
     </p>
     <br />
     -
