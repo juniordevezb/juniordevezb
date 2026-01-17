@@ -1,7 +1,7 @@
 ## Vitaj v mojom svete! 👋
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/render?type=waving&color0077B5&height=200&section=header&text=Zuzana%20Bariova&fontSize=70" alt="Banner Zuzana"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0060B1&text=Input%20text&reversal=false" alt="Banner Zuzana"/>
     </p>
     <br />
     -
