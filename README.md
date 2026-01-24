@@ -3,6 +3,7 @@
    <br/>
    <p> Junior frontend developer in progress. Currently focused on **HTML,CSS AND JavaScript**, with strong attention to design, structure and detail. </p>
     <br />
+    <p> Let's do it right this time.</p>
 </p> 
 
 
